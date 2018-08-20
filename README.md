@@ -27,7 +27,7 @@
 [M-x Chris-An-Emacser](https://chriszheng.science/) | <https://chriszheng.science/atom.xml>
 [宋春林](http://sixf.org/) | <http://songchunlin.net/cn/feed/>
 [虞双齐爱折腾](https://yushuangqi.com/) | <https://yushuangqi.com/index.xml>
-
+[依云's Blog](https://blog.lilydjwg.me/) | <https://blog.lilydjwg.me/posts.rss> 
 
 ## 非计算机相关的独立博客
 博客地址 | RSS地址
