@@ -1,6 +1,6 @@
 此项目旨在增强「独立中文博客」的互动。
 
-**OPML 订阅源**： https://raw.githubusercontent.com/RSS-Renaissance/Template/master/feedlist.opml
+**OPML 订阅源**： https://raw.githubusercontent.com/RSS-Renaissance/awesome-blogCN-feeds/master/feedlist.opml
 
 关于如何订阅 **OPML 订阅源**，可以看这里：[使用-inoreader-订阅-OPML-订阅源](https://github.com/RSS-Renaissance/RSSR-Docs-CN/blob/master/01-%E4%BD%BF%E7%94%A8-inoreader-%E8%AE%A2%E9%98%85-OPML-%E8%AE%A2%E9%98%85%E6%BA%90.md)
 
