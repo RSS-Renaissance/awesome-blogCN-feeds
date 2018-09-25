@@ -58,7 +58,7 @@
 [MrToyy's Blog – 探赜索隐 勾深致远 厚德博学 经济匡时](http://www.mrtoyy.com/) | <http://www.mrtoyy.com/index.php/feed/>
 [海德沙龙（HeadSalon）](http://headsalon.org/) | <http://headsalon.org/feed>
 [土木坛子](https://tumutanzi.com/) | <https://tumutanzi.com/feed>
-[奔跑中的奶酪 | 有智,有趣,有爱](https://www.runningcheese.com/) | <https://www.runningcheese.com/feed>
+[奔跑中的奶酪](https://www.runningcheese.com/) | <https://www.runningcheese.com/feed>
 
 ## 感谢
 这个项目的初始版本克隆自[中文 iOS/Mac 开发博客列表](https://github.com/tangqiaoboy/iOSBlogCN) ，它的建立离不开前辈们的工作，在此表示感谢。
