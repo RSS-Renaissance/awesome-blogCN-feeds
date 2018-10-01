@@ -59,6 +59,7 @@
 [海德沙龙（HeadSalon）](http://headsalon.org/) | <http://headsalon.org/feed>
 [土木坛子](https://tumutanzi.com/) | <https://tumutanzi.com/feed>
 [奔跑中的奶酪](https://www.runningcheese.com/) | <https://www.runningcheese.com/feed>
+[乱象，印迹](http://www.luanxiang.org/blog/) | <http://feeds.feedburner.com/yurii>
 
 ## 感谢
 这个项目的初始版本克隆自[中文 iOS/Mac 开发博客列表](https://github.com/tangqiaoboy/iOSBlogCN) ，它的建立离不开前辈们的工作，在此表示感谢。
