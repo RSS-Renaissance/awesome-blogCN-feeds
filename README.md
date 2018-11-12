@@ -62,6 +62,7 @@
 [奔跑中的奶酪](https://www.runningcheese.com/) | <https://www.runningcheese.com/feed>
 [乱象，印迹](http://www.luanxiang.org/blog/) | <http://feeds.feedburner.com/yurii>
 [zhengziying.com](https://zhengziying.com/) | <https://zhengziying.com/feed/>
+[孤岛客 - 几支无用笔，半打有心人。](http://www.huangjiwei.com/blog/) | <http://www.huangjiwei.com/blog/?feed=rss2>
 
 ## 感谢
 这个项目的初始版本克隆自[中文 iOS/Mac 开发博客列表](https://github.com/tangqiaoboy/iOSBlogCN) ，它的建立离不开前辈们的工作，在此表示感谢。
