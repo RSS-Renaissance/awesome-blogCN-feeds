@@ -39,7 +39,7 @@
 [依云's Blog](https://blog.lilydjwg.me/) | <https://blog.lilydjwg.me/posts.rss>
 [XiaoHui.com](https://www.xiaohui.com/) | <https://www.xiaohui.com/rss/>
 [Caos](http://blog.caos.me/) | <http://blog.caos.me/feed>
-[透明思考 | Transparent Thoughts](http://gigix.thoughtworkers.org/) | <http://gigix.thoughtworkers.org/atom.xml>
+[透明思考](http://gigix.thoughtworkers.org/) | <http://gigix.thoughtworkers.org/atom.xml>
 [DBA Notes](http://dbanotes.net/) | <http://dbanotes.net/feed>
 
 ## 非计算机相关的独立博客
