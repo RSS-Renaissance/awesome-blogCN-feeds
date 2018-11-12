@@ -68,6 +68,7 @@
 [Taiwan 2.0 – 展望一個更美好的台灣](https://taiwan.chtsai.org/) | <https://taiwan.chtsai.org/feed/>
 [Huiris's Blog](http://huiris.com/) | <http://huiris.com/feed/>
 [白板报](http://www.baibanbao.net/) | <http://www.wangpei.net/feed/>
+[比目鱼博客：Bimuyu's Blog](http://www.bimuyu.com/blog/) | <http://www.bimuyu.com/blog/rss.xml>
 
 ## 感谢
 这个项目的初始版本克隆自[中文 iOS/Mac 开发博客列表](https://github.com/tangqiaoboy/iOSBlogCN) ，它的建立离不开前辈们的工作，在此表示感谢。
