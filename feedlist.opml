@@ -18,8 +18,10 @@
 <outline text="依云's Blog" title="依云's Blog" type="rss" xmlUrl="https://blog.lilydjwg.me/posts.rss" htmlUrl="https://blog.lilydjwg.me/"/>
 <outline text="XiaoHui.com" title="XiaoHui.com" type="rss" xmlUrl="https://www.xiaohui.com/rss/" htmlUrl="https://www.xiaohui.com/"/>
 <outline text="Caos" title="Caos" type="rss" xmlUrl="http://blog.caos.me/feed" htmlUrl="http://blog.caos.me/"/>
-<outline text="透明思考 | Transparent Thoughts" title="透明思考 | Transparent Thoughts" type="rss" xmlUrl="http://gigix.thoughtworkers.org/atom.xml" htmlUrl="http://gigix.thoughtworkers.org/"/>
+<outline text="透明思考" title="透明思考" type="rss" xmlUrl="http://gigix.thoughtworkers.org/atom.xml" htmlUrl="http://gigix.thoughtworkers.org/"/>
 <outline text="DBA Notes" title="DBA Notes" type="rss" xmlUrl="http://dbanotes.net/feed" htmlUrl="http://dbanotes.net/"/>
+<outline text="思圆笔记 – 促成良性循环" title="思圆笔记 – 促成良性循环" type="rss" xmlUrl="https://hintsnet.com/pimgeek/feed/" htmlUrl="https://hintsnet.com/pimgeek/"/>
+<outline text="DebugUself with DAMA ;-)" title="DebugUself with DAMA ;-)" type="rss" xmlUrl="http://du.zoomquiet.io/atom.xml" htmlUrl="http://du.zoomquiet.io/"/>
 <outline text="宇宙的心弦 - 细推物理须行乐 何用浮名绊此身" title="宇宙的心弦 - 细推物理须行乐 何用浮名绊此身" type="rss" xmlUrl="https://www.physixfan.com/feed/" htmlUrl="https://www.physixfan.com/"/>
 <outline text="智识@IdeoBook™" title="智识@IdeoBook™" type="rss" xmlUrl="http://www.ideobook.com/feed/" htmlUrl="http://www.ideobook.com/"/>
 <outline text="Beyond the Void" title="Beyond the Void" type="rss" xmlUrl="http://www.byvoid.com/blog/feed/" htmlUrl="http://www.byvoid.com/"/>
