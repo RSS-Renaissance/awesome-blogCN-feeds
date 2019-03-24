@@ -43,6 +43,7 @@
 [DBA Notes](http://dbanotes.net/) | <http://dbanotes.net/feed>
 [思圆笔记 – 促成良性循环](https://hintsnet.com/pimgeek/) | <https://hintsnet.com/pimgeek/feed/>
 [DebugUself with DAMA ;-)](https://du.101.camp/) | <https://du.101.camp/atom.xml>
+[/ 是也乎(￣▽￣) / ZoomQuiet.io](https://blog.zoomquiet.io/) | <https://blog.zoomquiet.io/feeds/all.atom.xml>
 
 ## 非计算机相关的独立博客
 博客地址 | RSS地址
