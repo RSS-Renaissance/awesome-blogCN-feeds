@@ -74,6 +74,7 @@
 [比目鱼博客：Bimuyu's Blog](http://www.bimuyu.com/blog/) | <http://www.bimuyu.com/blog/rss.xml>
 [Elizen - 人间不值得](https://blog.elizen.me/) | <https://blog.elizen.me/feed>
 [Neverland – Wherefore art thou?](https://type.cyhsu.xyz/) | <https://type.cyhsu.xyz/feed/>
+[杨钦元 - 博客](http://yangqinyuan.com/) | <http://yangqinyuan.com/feed.xml>
 
 ## 感谢
 这个项目的初始版本克隆自[中文 iOS/Mac 开发博客列表](https://github.com/tangqiaoboy/iOSBlogCN) ，它的建立离不开前辈们的工作，在此表示感谢。
