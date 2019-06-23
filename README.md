@@ -45,6 +45,7 @@
 [DebugUself with DAMA ;-)](https://du.101.camp/) | <https://du.101.camp/atom.xml>
 [/ 是也乎(￣▽￣) / ZoomQuiet.io](https://blog.zoomquiet.io/) | <https://blog.zoomquiet.io/feeds/all.atom.xml>
 [小胡子哥的个人网站](https://www.barretlee.com/entry/) | <https://www.barretlee.com/rss2.xml>
+[笨方法学写作](https://www.cnfeat.com/) | <https://www.cnfeat.com/feed.xml>
 
 ## 非计算机相关的独立博客
 博客地址 | RSS地址
