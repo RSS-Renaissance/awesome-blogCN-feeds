@@ -48,6 +48,7 @@
 [笨方法学写作](https://www.cnfeat.com/) | <https://www.cnfeat.com/feed.xml>
 [王登科-DK博客 - 布洛芬爱好者](https://greatdk.com/) | <https://greatdk.com/feed>
 [Linghao's Blog](https://linghao.io/) | <https://linghao.io/feed.xml> 
+[forecho 的独立博客](https://blog.forecho.com/) | <https://blog.forecho.com/atom.xml> 
 
 ## 非计算机相关的独立博客
 博客地址 | RSS地址
