@@ -50,6 +50,7 @@
 [Linghao's Blog](https://linghao.io/) | <https://linghao.io/feed.xml> 
 [forecho 的独立博客](https://blog.forecho.com/) | <https://blog.forecho.com/atom.xml> 
 [Randy's Blog](https://lutaonan.com/) | <https://lutaonan.com/rss.xml>
+[范叶亮的博客 - Leo Van's Blog](https://leovan.me/) | <https://leovan.me/index.xml>
 
 ## 非计算机相关的独立博客
 博客地址 | RSS地址
