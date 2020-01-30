@@ -83,6 +83,7 @@
 [Neverland – Wherefore art thou?](https://type.cyhsu.xyz/) | <https://type.cyhsu.xyz/feed/>
 [杨钦元 - 博客](http://yangqinyuan.com/) | <http://yangqinyuan.com/feed.xml>
 [Jarodise – 数字游民部落 – A Chinese Digital Nomad Blog](https://jarodise.com/) | <	https://jarodise.com/feed/>
+[iNote - 一舟数字花园](https://inote.xyz) | <	https://inote.xyz/rss>
 
 ## 感谢
 这个项目的初始版本克隆自[中文 iOS/Mac 开发博客列表](https://github.com/tangqiaoboy/iOSBlogCN) ，它的建立离不开前辈们的工作，在此表示感谢。
