@@ -53,6 +53,7 @@
 [范叶亮的博客 - Leo Van's Blog](https://leovan.me/) | <https://leovan.me/index.xml>
 [ZMonster's Blog](http://www.zmonster.me/) | <http://www.zmonster.me/atom.xml>
 [Hi, DIYgod](https://diygod.me/) | <https://diygod.me/atom.xml>
+[Blanboom](https://blanboom.org/) | <https://blanboom.org/feed>
 
 ## 非计算机相关的独立博客
 博客地址 | RSS地址
