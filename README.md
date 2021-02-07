@@ -54,6 +54,7 @@
 [ZMonster's Blog](http://www.zmonster.me/) | <http://www.zmonster.me/atom.xml>
 [Hi, DIYgod](https://diygod.me/) | <https://diygod.me/atom.xml>
 [Blanboom](https://blanboom.org/) | <https://blanboom.org/feed>
+[TonyHe](https://www.ouorz.com/) | <https://blog.ouorz.com/feed>
 
 ## 非计算机相关的独立博客
 博客地址 | RSS地址
