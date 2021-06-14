@@ -74,7 +74,7 @@
 [海德沙龙（HeadSalon）](http://headsalon.org/) | <http://headsalon.org/feed>
 [土木坛子](https://tumutanzi.com/) | <https://tumutanzi.com/feed>
 [奔跑中的奶酪](https://www.runningcheese.com/) | <https://www.runningcheese.com/feed>
-[乱象，印迹](http://www.luanxiang.org/blog/) | <http://feeds.feedburner.com/yurii>
+[Life Sailor](https://www.lifesailor.me/) | <https://www.lifesailor.me/feed>
 [zhengziying.com](https://zhengziying.com/) | <https://zhengziying.com/feed/>
 [孤岛客 - 几支无用笔，半打有心人。](http://www.huangjiwei.com/blog/) | <http://www.huangjiwei.com/blog/?feed=rss2>
 [最好金龟换酒](http://fz0512.com/) | <http://fz0512.com/feed>
