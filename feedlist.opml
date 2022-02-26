@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><opml version="1.0"><head><title>导出订阅</title></head><body><outline text="ios" title="ios" >
 <outline text="OneV's Den" title="OneV's Den" type="rss" xmlUrl="http://onevcat.com/atom.xml" htmlUrl="http://onevcat.com"/>
-<outline text="Limboy 无网不剩" title="Limboy 无网不剩" type="rss" xmlUrl="http://feeds.feedburner.com/lzyy" htmlUrl="http://limboy.me/"/>
-<outline text="唐巧的技术博客" title="唐巧的技术博客" type="rss" xmlUrl="http://blog.devtang.com/atom.xml" htmlUrl="http://blog.devtang.com"/>
-<outline text="bang's blog" title="bang's blog" type="rss" xmlUrl="http://blog.cnbang.net/feed/" htmlUrl="http://blog.cnbang.net/"/>
+<outline text="Limboy 无网不剩" title="Limboy 无网不剩" type="rss" xmlUrl="https://feeds.feedburner.com/lzyy" htmlUrl="https://limboy.me/"/>
+<outline text="唐巧的技术博客" title="唐巧的技术博客" type="rss" xmlUrl="http://blog.devtang.com/atom.xml" htmlUrl="https://blog.devtang.com"/>
+<outline text="bang's blog" title="bang's blog" type="rss" xmlUrl="https://blog.cnbang.net/feed/" htmlUrl="https://blog.cnbang.net/"/>
 <outline text="Kevin Blog" title="Kevin Blog" type="rss" xmlUrl="http://zhowkev.in/rss" htmlUrl="http://zhowkev.in"/>
 <outline text="I'm TualatriX" title="I'm TualatriX" type="rss" xmlUrl="http://imtx.me/feed/latest/" htmlUrl="http://imtx.me"/>
 <outline text="webfrogs" title="webfrogs" type="rss" xmlUrl="http://blog.nswebfrog.com/feed/" htmlUrl="http://blog.nswebfrog.com/"/>
 <outline text="玉令天下的Blog" title="玉令天下的Blog" type="rss" xmlUrl="http://yulingtianxia.com/atom.xml" htmlUrl="http://yulingtianxia.com"/>
 <outline text="土土哥的技术Blog" title="土土哥的技术Blog" type="rss" xmlUrl="http://tutuge.me/atom.xml" htmlUrl="http://tutuge.me/"/>
-<outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" xmlUrl="http://feeds.feedburner.com/ruanyifeng" htmlUrl="http://www.ruanyifeng.com/blog/"/>
-<outline text="酷 壳 - CoolShell.cn" title="酷 壳 - CoolShell.cn" type="rss" xmlUrl="http://coolshell.cn/feed" htmlUrl="http://coolshell.cn/"/>
+<outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" xmlUrl="https://feeds.feedburner.com/ruanyifeng" htmlUrl="https://www.ruanyifeng.com/blog/"/>
+<outline text="酷 壳 - CoolShell.cn" title="酷 壳 - CoolShell.cn" type="rss" xmlUrl="https://coolshell.cn/feed" htmlUrl="https://coolshell.cn/"/>
 <outline text="刘未鹏 Mind Hacks – 思维改变生活" title="刘未鹏 Mind Hacks – 思维改变生活" type="rss" xmlUrl="http://mindhacks.cn/feed/" htmlUrl="http://mindhacks.cn/"/>
 <outline text="云风的 BLOG" title="云风的 BLOG" type="rss" xmlUrl="http://blog.codingnow.com/atom.xml" htmlUrl="http://blog.codingnow.com/"/>
 <outline text="M-x Chris-An-Emacser" title="M-x Chris-An-Emacser" type="rss" xmlUrl="https://chriszheng.science/atom.xml" htmlUrl="https://chriszheng.science/"/>
@@ -30,9 +30,11 @@
 <outline text="forecho 的独立博客" title="forecho 的独立博客" type="rss" xmlUrl="https://blog.forecho.com/atom.xml" htmlUrl="https://blog.forecho.com/"/>
 <outline text="Randy's Blog" title="Randy's Blog" type="rss" xmlUrl="https://lutaonan.com/rss.xml" htmlUrl="https://lutaonan.com/"/>
 <outline text="范叶亮的博客 - Leo Van's Blog" title="范叶亮的博客 - Leo Van's Blog" type="rss" xmlUrl="https://leovan.me/index.xml" htmlUrl="https://leovan.me/"/>
-<outline text="ZMonster's Blog" title="ZMonster's Blog" type="rss" xmlUrl="http://www.zmonster.me/atom.xml" htmlUrl="http://www.zmonster.me/"/>
+<outline text="ZMonster's Blog" title="ZMonster's Blog" type="rss" xmlUrl="http://www.zmonster.me/atom.xml" htmlUrl="https://www.zmonster.me/"/>
 <outline text="Hi, DIYgod" title="Hi, DIYgod" type="rss" xmlUrl="https://diygod.me/atom.xml" htmlUrl="https://diygod.me/"/>
 <outline text="Blanboom" title="Blanboom" type="rss" xmlUrl="https://blanboom.org/feed" htmlUrl="https://blanboom.org/"/>
+<outline text="TonyHe" title="TonyHe" type="rss" xmlUrl="https://blog.ouorz.com/feed" htmlUrl="https://www.ouorz.com/"/>
+<outline text="程序员的喵" title="程序员的喵" type="rss" xmlUrl="https://catcoding.me/atom.xml" htmlUrl="https://catcoding.me/archives/"/>
 <outline text="宇宙的心弦 - 细推物理须行乐 何用浮名绊此身" title="宇宙的心弦 - 细推物理须行乐 何用浮名绊此身" type="rss" xmlUrl="https://www.physixfan.com/feed/" htmlUrl="https://www.physixfan.com/"/>
 <outline text="智识@IdeoBook™" title="智识@IdeoBook™" type="rss" xmlUrl="http://www.ideobook.com/feed/" htmlUrl="http://www.ideobook.com/"/>
 <outline text="Beyond the Void" title="Beyond the Void" type="rss" xmlUrl="http://www.byvoid.com/blog/feed/" htmlUrl="http://www.byvoid.com/"/>
@@ -60,5 +62,5 @@
 <outline text="Elizen - 人间不值得" title="Elizen - 人间不值得" type="rss" xmlUrl="https://blog.elizen.me/feed" htmlUrl="https://blog.elizen.me/"/>
 <outline text="Neverland – Wherefore art thou?" title="Neverland – Wherefore art thou?" type="rss" xmlUrl="https://type.cyhsu.xyz/feed/" htmlUrl="https://type.cyhsu.xyz/"/>
 <outline text="杨钦元 - 博客" title="杨钦元 - 博客" type="rss" xmlUrl="http://yangqinyuan.com/feed.xml" htmlUrl="http://yangqinyuan.com/"/>
-<outline text="Jarodise – 数字游民部落 – A Chinese Digital Nomad Blog" title="Jarodise – 数字游民部落 – A Chinese Digital Nomad Blog" type="rss" xmlUrl="	https://jarodise.com/feed/" htmlUrl="https://jarodise.com/"/></outline>
-<outline text="TonyHe - Just A Poor Lifesinger" title="TonyHe" type="rss" xmlUrl="https://blog.ouorz.com/feed/" htmlUrl="https://www.ouorz.com/"/></outline></body></opml>
+<outline text="Jarodise – 数字游民部落 – A Chinese Digital Nomad Blog" title="Jarodise – 数字游民部落 – A Chinese Digital Nomad Blog" type="rss" xmlUrl="	https://jarodise.com/feed/" htmlUrl="https://jarodise.com/"/>
+<outline text="林林杂语" title="林林杂语" type="rss" xmlUrl="	https://linlinzzo.top/feed/" htmlUrl="https://linlinzzo.top/"/></outline></body></opml>
