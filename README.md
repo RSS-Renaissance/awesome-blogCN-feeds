@@ -21,16 +21,16 @@
 博客地址 | RSS地址
 ----- | -----
 [OneV's Den](http://onevcat.com) | <http://onevcat.com/atom.xml>
-[Limboy 无网不剩](http://limboy.me/) | <http://feeds.feedburner.com/lzyy>
-[唐巧的技术博客](http://blog.devtang.com) | <http://blog.devtang.com/atom.xml>
-[bang's blog](http://blog.cnbang.net/) | <http://blog.cnbang.net/feed/>
+[Limboy 无网不剩](https://limboy.me/) | <https://feeds.feedburner.com/lzyy>
+[唐巧的技术博客](https://blog.devtang.com) | <http://blog.devtang.com/atom.xml>
+[bang's blog](https://blog.cnbang.net/) | <https://blog.cnbang.net/feed/>
 [Kevin Blog](http://zhowkev.in) | <http://zhowkev.in/rss>
 [I'm TualatriX](http://imtx.me) | <http://imtx.me/feed/latest/>
 [webfrogs](http://blog.nswebfrog.com/) | <http://blog.nswebfrog.com/feed/>
 [玉令天下的Blog](http://yulingtianxia.com) | <http://yulingtianxia.com/atom.xml>
 [土土哥的技术Blog](http://tutuge.me/) | <http://tutuge.me/atom.xml>
-[阮一峰的网络日志](http://www.ruanyifeng.com/blog/) | <http://feeds.feedburner.com/ruanyifeng>
-[酷 壳 - CoolShell.cn](http://coolshell.cn/) | <http://coolshell.cn/feed>
+[阮一峰的网络日志](https://www.ruanyifeng.com/blog/) | <https://feeds.feedburner.com/ruanyifeng>
+[酷 壳 - CoolShell.cn](https://coolshell.cn/) | <https://coolshell.cn/feed>
 [刘未鹏 Mind Hacks – 思维改变生活](http://mindhacks.cn/) | <http://mindhacks.cn/feed/>
 [云风的 BLOG](http://blog.codingnow.com/) | <http://blog.codingnow.com/atom.xml>
 [M-x Chris-An-Emacser](https://chriszheng.science/) | <https://chriszheng.science/atom.xml>
@@ -51,10 +51,13 @@
 [forecho 的独立博客](https://blog.forecho.com/) | <https://blog.forecho.com/atom.xml> 
 [Randy's Blog](https://lutaonan.com/) | <https://lutaonan.com/rss.xml>
 [范叶亮的博客 - Leo Van's Blog](https://leovan.me/) | <https://leovan.me/index.xml>
-[ZMonster's Blog](http://www.zmonster.me/) | <http://www.zmonster.me/atom.xml>
+[ZMonster's Blog](https://www.zmonster.me/) | <http://www.zmonster.me/atom.xml>
 [Hi, DIYgod](https://diygod.me/) | <https://diygod.me/atom.xml>
 [Blanboom](https://blanboom.org/) | <https://blanboom.org/feed>
+[TonyHe](https://www.ouorz.com/) | <https://blog.ouorz.com/feed>
+[程序员的喵](https://catcoding.me/archives/) | <https://catcoding.me/atom.xml>
 [Power's Wiki](https://wiki-power.com/) | <https://https://wiki-power.com/blog/rss.xml>
+
 
 ## 非计算机相关的独立博客
 博客地址 | RSS地址
@@ -87,6 +90,7 @@
 [Neverland – Wherefore art thou?](https://type.cyhsu.xyz/) | <https://type.cyhsu.xyz/feed/>
 [杨钦元 - 博客](http://yangqinyuan.com/) | <http://yangqinyuan.com/feed.xml>
 [Jarodise – 数字游民部落 – A Chinese Digital Nomad Blog](https://jarodise.com/) | <	https://jarodise.com/feed/>
+[林林杂语](https://linlinzzo.top/) | <	https://linlinzzo.top/feed/>
 
 ## 感谢
 这个项目的初始版本克隆自[中文 iOS/Mac 开发博客列表](https://github.com/tangqiaoboy/iOSBlogCN) ，它的建立离不开前辈们的工作，在此表示感谢。
