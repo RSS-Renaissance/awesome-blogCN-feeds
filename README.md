@@ -56,6 +56,8 @@
 [Blanboom](https://blanboom.org/) | <https://blanboom.org/feed>
 [TonyHe](https://www.ouorz.com/) | <https://blog.ouorz.com/feed>
 [程序员的喵](https://catcoding.me/archives/) | <https://catcoding.me/atom.xml>
+[Power's Wiki](https://wiki-power.com/) | <https://https://wiki-power.com/blog/rss.xml>
+
 
 ## 非计算机相关的独立博客
 博客地址 | RSS地址
