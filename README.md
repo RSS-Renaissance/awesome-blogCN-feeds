@@ -47,8 +47,8 @@
 [小胡子哥的个人网站](https://www.barretlee.com/entry/) | <https://www.barretlee.com/rss2.xml>
 [笨方法学写作](https://www.cnfeat.com/) | <https://www.cnfeat.com/feed.xml>
 [王登科-DK博客 - 布洛芬爱好者](https://greatdk.com/) | <https://greatdk.com/feed>
-[Linghao's Blog](https://linghao.io/) | <https://linghao.io/feed.xml> 
-[forecho 的独立博客](https://blog.forecho.com/) | <https://blog.forecho.com/atom.xml> 
+[Linghao's Blog](https://linghao.io/) | <https://linghao.io/feed.xml>
+[forecho 的独立博客](https://blog.forecho.com/) | <https://blog.forecho.com/atom.xml>
 [Randy's Blog](https://lutaonan.com/) | <https://lutaonan.com/rss.xml>
 [范叶亮的博客 - Leo Van's Blog](https://leovan.me/) | <https://leovan.me/index.xml>
 [ZMonster's Blog](https://www.zmonster.me/) | <http://www.zmonster.me/atom.xml>
@@ -56,6 +56,7 @@
 [Blanboom](https://blanboom.org/) | <https://blanboom.org/feed>
 [TonyHe](https://www.ouorz.com/) | <https://blog.ouorz.com/feed>
 [程序员的喵](https://catcoding.me/archives/) | <https://catcoding.me/atom.xml>
+[学无止境](http://gtdstudy.com/) | <http://gtdstudy.com/index.xml>
 
 ## 非计算机相关的独立博客
 博客地址 | RSS地址
