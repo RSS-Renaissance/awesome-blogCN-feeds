@@ -60,6 +60,7 @@
 [涛叔](https://taoshu.in/) | <https://taoshu.in/feed.xml>
 [This Cute World](https://thiscute.world/) | <https://thiscute.world/index.xml>
 [欧雷流](https://ourai.ws/) | <https://ourai.ws/atom.xml>
+[贤民的博客](https://www.xianmin.org/) | <https://www.xianmin.org/index.xml>
 
 ## 非计算机相关的独立博客
 博客地址 | RSS地址
